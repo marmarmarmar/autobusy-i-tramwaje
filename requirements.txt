@@ -1,0 +1,8 @@
+python-vlc
+opencv-python
+matplotlib
+imutils
+numba
+sklearn
+filterpy
+python-osc
